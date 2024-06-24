@@ -2,11 +2,11 @@ const logotext = "Dhruvesh Rana";
 const meta = {
   title: "Dhruvesh Rana",
   description:
-    "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    "I’m Dhruvesh Rana Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-  title: "I’m John Doe",
+  title: "I’m Dhruvesh Rana",
   animated: {
     second: "I code cool websites",
     third: "I develop mobile apps",
@@ -157,8 +157,8 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "dhrurana96@gmail.com",
+  YOUR_FONE: "8511587821",
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
   // creat an emailjs.com account
@@ -172,7 +172,6 @@ const socialprofils = {
   github: "https://github.com",
   facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
-  twitter: "https://twitter.com",
 };
 export {
   meta,
